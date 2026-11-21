@@ -1,8 +1,8 @@
 # lamplight
 
 [![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
-[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/MARUGAMIII/lamplight/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
-[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/MARUGAMIII/lamplight/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/MARUGAMIII/best-stealth-game-20261121-1759/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/MARUGAMIII/best-stealth-game-20261121-1759/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
 **Lamplight — a quiet heist** is a top-down stealth game that runs entirely offline in a desktop browser. You are Wren, a night courier slipping through three floors of the Moonlit Archive — *The Reading Room*, *The Vault Corridor*, *The Grand Gallery* — to lift a relic and reach the green EXIT unseen. Wardens patrol with real vision cones (raycast, cut short by walls and crates), pause at waypoints to scan the room, and chase you down if their suspicion meter fills. Getting spotted is not instant failure: a warden stops and stares ("?"), then gives chase ("!"), and gives up if you break line of sight for 3.2 seconds. You are only caught if a warden touches you — three lives per run.
 
